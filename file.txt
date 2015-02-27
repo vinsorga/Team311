@@ -1,2 +1,3 @@
 This is a text file
 We have to edit this
+edited part
